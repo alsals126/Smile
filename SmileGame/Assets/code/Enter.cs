@@ -1,24 +1,23 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class Enter : MonoBehaviour
 {
-    [SerializeField] private InputField input_plz;
-    [SerializeField] private string sceneName;
+    [SerializeField] private InputField input;
     [SerializeField] private string text1;
 
-    public void enterButton()
+    
+    public void enterButton() 
     {
-        if(input_plz.text == text1)
+        if(input.text == text1)
         {
-            MoveScene();
+            GameObject.Find("Main Camera").GetComponent<NextStagePanel>().NextPanel();
         }
-    }
-    public void MoveScene()
-    {
-        SceneManager.LoadScene(sceneName);
-    }
+        else
+        {
+            input.SetTextWithoutNotify("");
+        }
+    }   
 }
