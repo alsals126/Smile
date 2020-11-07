@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
 - path: Assets/Scenes/game7.unity
-=======
-- path: Assets/Scenes/game15.unity
->>>>>>> be683c2f799bb18051bb5f897067e56eafeea96f
   isLoaded: 1
   isActive: 1
   isSubScene: 0
