@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/game2.unity
+=======
+- path: Assets/Scenes/game15.unity
+>>>>>>> 33173a06c8d31ea025f68fc5437d98b527f54c13
   isLoaded: 1
   isActive: 1
   isSubScene: 0
