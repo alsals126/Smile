@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
-  <string name="firebase_database_url" translatable="false">https://smile-7574d.firebaseio.com</string>
-  <string name="gcm_defaultSenderId" translatable="false">61202258190</string>
-  <string name="google_storage_bucket" translatable="false">smile-7574d.appspot.com</string>
-  <string name="project_id" translatable="false">smile-7574d</string>
-  <string name="google_api_key" translatable="false">AIzaSyB6vqXL0NtbHAzBSzWYH0CC8Y7ARblkS3I</string>
-  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB6vqXL0NtbHAzBSzWYH0CC8Y7ARblkS3I</string>
-  <string name="google_app_id" translatable="false">1:61202258190:android:d28edbe8e7c5e1c29cdf5f</string>
-  <string name="default_web_client_id" translatable="false">61202258190-13ma4ieqpepaivqd7jqbp15680mbrlkn.apps.googleusercontent.com</string>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://smile-7e27b.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">396954048301</string>
+  <string name="google_storage_bucket" translatable="false">smile-7e27b.appspot.com</string>
+  <string name="project_id" translatable="false">smile-7e27b</string>
+  <string name="google_api_key" translatable="false">AIzaSyAoVx9Sq-Xn9H3YVu8w2v9mGww905kLmOs</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAoVx9Sq-Xn9H3YVu8w2v9mGww905kLmOs</string>
+  <string name="google_app_id" translatable="false">1:396954048301:android:cc9ead08fa5809302a25a4</string>
+  <string name="default_android_client_id" translatable="false">396954048301-9m793ng7kjtoo9161r707g4e6sjkq3j1.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">396954048301-5aba5fam2vc58p99krotca44149l69al.apps.googleusercontent.com</string>
 </resources>
