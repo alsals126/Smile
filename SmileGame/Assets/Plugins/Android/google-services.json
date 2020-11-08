@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "61202258190",
+    "firebase_url": "https://smile-7574d.firebaseio.com",
+    "project_id": "smile-7574d",
+    "storage_bucket": "smile-7574d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61202258190:android:d28edbe8e7c5e1c29cdf5f",
+        "android_client_info": {
+          "package_name": "com.friendship.smile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61202258190-13ma4ieqpepaivqd7jqbp15680mbrlkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6vqXL0NtbHAzBSzWYH0CC8Y7ARblkS3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61202258190-13ma4ieqpepaivqd7jqbp15680mbrlkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
