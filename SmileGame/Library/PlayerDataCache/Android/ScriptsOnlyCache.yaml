@@ -48,6 +48,7 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
+<<<<<<< HEAD
       Script: {instanceID: 11328}
     - Class: 114
       Script: {instanceID: 11568}
@@ -114,6 +115,29 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13338}
     - Class: 114
       Script: {instanceID: 13830}
+=======
+      Script: {instanceID: 11248}
+    - Class: 114
+      Script: {instanceID: 11488}
+    - Class: 114
+      Script: {instanceID: 11524}
+    - Class: 114
+      Script: {instanceID: 11536}
+    - Class: 114
+      Script: {instanceID: 12064}
+    - Class: 114
+      Script: {instanceID: 12466}
+    - Class: 114
+      Script: {instanceID: 12668}
+    - Class: 114
+      Script: {instanceID: 12892}
+    - Class: 114
+      Script: {instanceID: 13258}
+    - Class: 114
+      Script: {instanceID: 13632}
+    - Class: 114
+      Script: {instanceID: 13750}
+>>>>>>> 857eda2373e24aa51b1a3572bc3c08d86e8cf502
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -423,7 +447,7 @@ ScriptsOnlyBuild:
     className: Physics2DRaycaster
   - hash:
       serializedVersion: 2
-      Hash: 7805dbebd103341782f3d6071ec8690f
+      Hash: 70a987ec5a565abfc2b5e349bbee191c
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: arrow_touch
@@ -543,6 +567,11 @@ ScriptsOnlyBuild:
     className: ToggleGroup
   platform: 13
   scenePathNames:
+<<<<<<< HEAD
   - Assets/Scenes/game15.unity
   - Assets/Scenes/game16.unity
   playerPath: C:/Users/jiji4/Project/SmileProject/smilegit/SmileGame/SmileApp.apk
+=======
+  - Assets/Scenes/game2.unity
+  playerPath: "C:/Users/Samsung/Documents/GitHub/SmileGit/SmileGame/\uC6C3\uC9DC\uC6C3\uC9DC.aab"
+>>>>>>> 857eda2373e24aa51b1a3572bc3c08d86e8cf502
