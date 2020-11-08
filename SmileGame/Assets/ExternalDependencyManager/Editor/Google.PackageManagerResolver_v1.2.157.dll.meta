@@ -1,7 +1,6 @@
 fileFormatVersion: 2
 guid: 88e33724fd504a989e2efb7b19dd7a74
 labels:
-- gvh_v0.10.11
 - gvh
 - gvh_version-1.2.157
 - gvhp_exportpath-ExternalDependencyManager/Editor/Google.PackageManagerResolver_v1.2.157.dll
@@ -25,7 +24,7 @@ PluginImporter:
   - first:
       Editor: Editor
     second:
-      enabled: 0
+      enabled: 1
       settings:
         DefaultValueInitialized: true
   - first:

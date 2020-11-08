@@ -1,7 +1,6 @@
 fileFormatVersion: 2
 guid: 90443dafa16745f9a81e21939db486a5
 labels:
-- gvh_v0.10.11
 - gvh
 - gvh_version-1.2.157
 - gvhp_exportpath-ExternalDependencyManager/Editor/Google.IOSResolver_v1.2.157.dll
@@ -25,7 +24,7 @@ PluginImporter:
   - first:
       Editor: Editor
     second:
-      enabled: 0
+      enabled: 1
       settings:
         DefaultValueInitialized: true
   - first:
