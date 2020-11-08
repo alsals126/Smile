@@ -49,6 +49,7 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 114
 <<<<<<< HEAD
+<<<<<<< HEAD
       Script: {instanceID: 11328}
     - Class: 114
       Script: {instanceID: 11568}
@@ -117,27 +118,34 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13830}
 =======
       Script: {instanceID: 11248}
+=======
+      Script: {instanceID: 11252}
+>>>>>>> 3bac1ea2a9fe200681c0a97f117791f6487181f3
     - Class: 114
-      Script: {instanceID: 11488}
+      Script: {instanceID: 11492}
     - Class: 114
-      Script: {instanceID: 11524}
+      Script: {instanceID: 11528}
     - Class: 114
-      Script: {instanceID: 11536}
+      Script: {instanceID: 11540}
     - Class: 114
-      Script: {instanceID: 12064}
+      Script: {instanceID: 12068}
     - Class: 114
-      Script: {instanceID: 12466}
+      Script: {instanceID: 12470}
     - Class: 114
-      Script: {instanceID: 12668}
+      Script: {instanceID: 12672}
     - Class: 114
-      Script: {instanceID: 12892}
+      Script: {instanceID: 12896}
     - Class: 114
-      Script: {instanceID: 13258}
+      Script: {instanceID: 13262}
     - Class: 114
-      Script: {instanceID: 13632}
+      Script: {instanceID: 13636}
     - Class: 114
+<<<<<<< HEAD
       Script: {instanceID: 13750}
 >>>>>>> 857eda2373e24aa51b1a3572bc3c08d86e8cf502
+=======
+      Script: {instanceID: 13754}
+>>>>>>> 3bac1ea2a9fe200681c0a97f117791f6487181f3
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -573,5 +581,9 @@ ScriptsOnlyBuild:
   playerPath: C:/Users/jiji4/Project/SmileProject/smilegit/SmileGame/SmileApp.apk
 =======
   - Assets/Scenes/game2.unity
+<<<<<<< HEAD
   playerPath: "C:/Users/Samsung/Documents/GitHub/SmileGit/SmileGame/\uC6C3\uC9DC\uC6C3\uC9DC.aab"
 >>>>>>> 857eda2373e24aa51b1a3572bc3c08d86e8cf502
+=======
+  playerPath: C:/Users/Samsung/Documents/GitHub/SmileGit/SmileGame/Smile.aab
+>>>>>>> 3bac1ea2a9fe200681c0a97f117791f6487181f3
