@@ -964,7 +964,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nextpanel: {fileID: 1740183636}
-  sceneName: game4
+  sceneName: game7
 --- !u!1 &1146729800
 GameObject:
   m_ObjectHideFlags: 0
