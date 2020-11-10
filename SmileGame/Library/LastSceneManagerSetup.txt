@@ -1,13 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/Login.unity
-=======
-<<<<<<< Updated upstream
-- path: Assets/Scenes/game4.unity
-=======
-- path: Assets/Scenes/game7.unity
->>>>>>> Stashed changes
->>>>>>> 864d2ff914f9501a3fdb6ef30f3460158f064f64
+- path: Assets/Scenes/game24.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
