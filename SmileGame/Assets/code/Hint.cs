@@ -15,7 +15,11 @@ public class Hint : MonoBehaviour
 
     private void OnMouseDown()
     {
-        panel.gameObject.SetActive(true);
+        GameObject next = GameObject.Find("NextStage");
+        if(next.gameObject.activeSelf == false)
+        {
+            panel.gameObject.SetActive(true);
+        }
         button.onClick.AddListener(ButtonClicked);
     }
     void ButtonClicked()
